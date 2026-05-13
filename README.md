@@ -5,7 +5,7 @@
   <br/>
   <br/>
   
-  <img src="https://i.ibb.co/yFq2sTTg/serene-coding-sanctuary-in-anime-style-backiee-4-K-1.jpg" width="500" alt="Coding GIF" />
+  <img src="https://i.ibb.co/yFq2sTTg/serene-coding-sanctuary-in-anime-style-backiee-4-K-1.jpg" width="1000" alt="Coding GIF" />
 
   <br/>
   <br/>
