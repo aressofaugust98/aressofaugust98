@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Lieu Tuan Kiet</h1>
-<h3 align="center">Frontend Developer Intern | Crafting interactive web experiences</h3>
+<div align="center">
 
-<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=16605B&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lieu+Tuan+Kiet+👋;Frontend+Developer+Intern;Turning+ideas+into+reality+with+code;A+Manga+Translator+%26+Web+Builder" alt="Typing SVG" />
+  </a>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z2dxeHhqZ2F2dG0wZ2M4bzEwbHJ2Y3BweXZ4dDhoOXBtcGIwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF" />
+
+  <br/>
+
   <a href="mailto:tuankiet9804@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+
+</div>
 
 ---
 
@@ -13,7 +20,7 @@
 - 🎓 Final-year Information Technology student at **Saigon University** (2022 - 2027).
 - 💻 Specialized in building responsive, high-performance web applications using modern Frontend technologies.
 - 🚀 Actively seeking a **full-time Frontend Developer Internship**.
-- ⚡ **Fun fact:** When I'm not coding, I'm studying Japanese and translating manga!
+- ⚡ **Fun fact:** When I'm not coding, I'm studying Japanese and managing scanlation operations!
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
@@ -33,8 +40,8 @@
 </p>
 
 ### 🚀 Featured Projects
-* **[Monio - AI Finance Tracker](https://github.com/tanpuhnpt/monio)**: A robust personal finance app leveraging AI (FastAPI, Whisper, Vision) for automated expense tracking. Built frontend from scratch with **React 19, Tailwind, and Recharts**.
-* **[Manga Reading Web Platform](https://github.com/aressofaugust98/manga-reader)**: A full-featured manga reader and Admin Dashboard. Engineered with **React**, integrated **Contentful CMS**, and optimized image delivery via **Cloudflare R2** with client-side WebP conversion.
+* **[Monio - AI Finance Tracker](https://github.com/tanpuhnpt/monio)**: A robust personal finance app leveraging AI. Built frontend from scratch with **React 19, Tailwind, and Recharts**.
+* **[Manga Reading Web Platform](https://github.com/aressofaugust98/manga-reader)**: A full-featured manga reader and Admin Dashboard. Engineered with **React**, integrated **Contentful CMS**, and optimized image delivery via **Cloudflare R2**.
 * **[Potato - Food Delivery](https://github.com/tanpuhnpt/potato)**: A collaborative e-commerce platform. Acted as Frontend Developer to build dynamic user interfaces and integrate Spring Boot RESTful APIs.
 
 ### 📊 GitHub Stats
