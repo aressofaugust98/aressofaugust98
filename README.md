@@ -5,7 +5,7 @@
   <br/>
   <br/>
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z2dxeHhqZ2F2dG0wZ2M4bzEwbHJ2Y3BweXZ4dDhoOXBtcGIwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF" />
+  <img src="https://backiee.com/static/wallpapers/1000x563/386741.webp" width="250" alt="Coding GIF" />
 
   <br/>
   <br/>
@@ -18,13 +18,13 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year Information Technology student at **Saigon University** (2022 - 2027).
-- 💻 Specialized in building responsive, high-performance web applications using modern Frontend technologies.
-- 🚀 Actively seeking a **full-time Frontend Developer Internship**.
-- ⚡ **Fun fact:** When I'm not coding, I'm studying Japanese and managing scanlation operations!
+### About Me
+- Final-year Information Technology student at **Saigon University** (2022 - 2027).
+- Specialized in building responsive, high-performance web applications using modern Frontend technologies.
+- Actively seeking a **full-time Frontend Developer Internship**.
+- **Fun fact:** When I'm not coding, I'm studying Japanese and managing scanlation operations!
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -37,16 +37,10 @@
   <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <br>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 * **[Monio - AI Finance Tracker](https://github.com/tanpuhnpt/monio)**: A robust personal finance app leveraging AI. Built frontend from scratch with **React 19, Tailwind, and Recharts**.
 * **[Manga Reading Web Platform](https://github.com/aressofaugust98/manga-reader)**: A full-featured manga reader and Admin Dashboard. Engineered with **React**, integrated **Contentful CMS**, and optimized image delivery via **Cloudflare R2**.
 * **[Potato - Food Delivery](https://github.com/tanpuhnpt/potato)**: A collaborative e-commerce platform. Acted as Frontend Developer to build dynamic user interfaces and integrate Spring Boot RESTful APIs.
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aressofaugust98&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
