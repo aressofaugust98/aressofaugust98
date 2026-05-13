@@ -1,11 +1,13 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=16605B&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lieu+Tuan+Kiet+👋;Frontend+Developer+Intern;Turning+ideas+into+reality+with+code;A+Manga+Translator+%26+Web+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=16605B&center=true&vCenter=true&width=800&lines=Hi+there,+I%27m+Lieu+Tuan+Kiet;Frontend+Developer+Intern;Turning+ideas+into+reality+with+code" alt="Typing SVG" />
 
+  <br/>
+  <br/>
+  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z2dxeHhqZ2F2dG0wZ2M4bzEwbHJ2Y3BweXZ4dDhoOXBtcGIwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF" />
 
+  <br/>
   <br/>
 
   <a href="mailto:tuankiet9804@gmail.com">
