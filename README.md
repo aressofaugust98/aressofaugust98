@@ -25,7 +25,6 @@
 ### About Me
 - Final-year Information Technology student at **Saigon University** (2022 - 2027).
 - Specialized in building responsive, high-performance web applications using modern Frontend technologies.
-- Actively seeking a **full-time Frontend Developer Internship**.
 - **Fun fact:** When I'm not coding, I'm studying Japanese.
 
 ### Tech Stack & Tools
